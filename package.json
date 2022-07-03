@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@aws-amplify/core": "^4.5.8",
     "@aws-amplify/ui-react": "^3.0.3",
     "@aws-sdk/client-cognito-identity": "^3.121.0",
     "@testing-library/jest-dom": "^5.16.4",
